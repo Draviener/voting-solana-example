@@ -122,10 +122,3 @@ _Note_: The schema below has been generated from the file [./docs/architecture.p
 
 ---
 
-## Solana Questions & Answers
-
-It's my ([@MartinKavik](https://github.com/MartinKavik)) first project with Solana / blockchain. Naturally, I had some beginner questions about the API, architecture and best practices. And I was lucky enough to get answers from the Solana master [@jstarry](https://github.com/jstarry) who works in Solana Labs.
-
-So I recommend to read these Q&A before your start to work on your Solana project. (_Note_: The repo hasn't been updated to follow recommendations mentioned in the answers.)
-
-[Questions.md](./questions.md)
